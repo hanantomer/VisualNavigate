@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play_arrow.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_play_arrow.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_bookmark_border_black_24dp.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_bookmark_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorite_black_24dp.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_black_24dp.png"
+    }
+]

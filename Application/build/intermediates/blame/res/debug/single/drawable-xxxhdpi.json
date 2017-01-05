@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_bookmark_border_black_24dp.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxxhdpi\\ic_bookmark_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_favorite_black_24dp.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png",
+        "source": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    }
+]

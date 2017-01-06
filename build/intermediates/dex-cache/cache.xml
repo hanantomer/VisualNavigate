@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_871d933d6916eab9493091ccb263e22b14706d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_b9149a79581b39f9e25078741b527bf17a3171ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_54faa1a98e28c99ef165c62d3ee5d8b4c13bc3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_1e6c7238ea66c6e4d34e84fc88ac71b0361be296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_83eb0f92a53145d892fad6c7dceb9828307cd3ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_4af689e49a73eabb98e1aa0aa56facac9bca9b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_05f2fa5eb4e7b177c7043d8f5745597068479d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_a870484cd655086620a8d02904a6c34668380441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_ee32bf2d88f6c45e6c3f43f8f4bb690f98a59202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_72aa4321a08b2b8f6d7e163e711fd8774e2fbc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_4b991a5dfca11edbea182128db6fd1c6ed31a0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_b2b8082a13452bd6b0e16c7be13ecbdc829e1178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_ca4109d614b42db0055f4362dfe0967f9909a5c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_9f78aa7229a4466719259e10abd86a60c2a6a755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_5adb01234deac10cc5ef75e73e86a4f762a7b44b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_8f7c2e82bc612ffd21e69382cbeef9edd607baaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_92a1c56289767081b54a368cca15cb64ff303ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_c32526c752dad02ef6c34959f9493da7fd9407c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_715bbc7e363464b1fc52bb03ab5974ce9eb58d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_fd84c81dbfd244724288eefbf0b2cbb2d0f6b823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_9667e7bdf4cc395fa57f95a07620417cd997f3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_7a03ab3af87f9874e2657c68dabca56da67ff224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_9a660bfbfbf35e211bb82b949dcb75c4a6f46f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_d02f1e8327237e7e0edf5ea1a8a6a6c33e4d1d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_5acf9f540c6265419e66b0ac388a0e4d77e86c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_b87eaf963b73ab69640a94608b7679bc079a1d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_8dae590548b4a75db1f9953e6109a1c8f8707db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_4544a2169e53db3976f15f51692c52eebc8036f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_119db9f1e6d3a0ef9a8ea923b6be45d821de9a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_e785cd38d8da6e6a459c911f4b3511ed1572d3b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_15e04f539a3fe993121df7ca7dfc82c35c374220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_eea05a6a742a354e93f532164f41103dd5e41db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_74d3c1e159d7071b157adec933d735c5f33288cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\htomer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_42682b7c17f22e40a4ee06af45d296da33f5c9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_a144ab8b742001f0cb762fc72729a056e4ad421a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_ad40e8054ce724910ff5ce0052abee89a9760f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_d68dc6e45b144babc9566c7f0ac307505aec6b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_610e9b53f8bbc7ab191c751d738e370d9bac163a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_2c9c35cae46ce2a80581011e561f56af4975dad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_5306dd84ea67a1d31c8a4934f19a905b585e868d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_c472676e3d90f7e732ef5b4592090172139ccb0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_0fff3811b452ea8854b58b81450750b154263e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ddf0a52b826b57b34f945694ee84a2f932d558ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_4f6eb54b9d121576883a2367e6b2689f20f4753e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_1371c601f3ce248c96646dcdbdfc10cf8196e6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_70a9cd99e0775c6438ad697ff6ac78afd705896d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_547bffe9b9d28dd625f255ae5ed015680e04eb37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_fa9425211f67763d49f163f5b5c0262b73cb2a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_972f4a03dada3660c2576b19579600aeeabeced9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_0fc772f17a8872093ea66713fe3d048eb69c5a2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_a61b71c95df57400ea669e84c833ee5aacea0180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_46b027994f6bf801163eefe785432afe38f2a4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_1c4c732430acee651036b1d4efca6de26891f297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_5413e65d8820a97a17ce8cb508523bd7371a3e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_d3f1fdc76c8320e14283c58c5ff1fe56a329c184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_1e64efa8ddafb7906488162d2b1d8c7caf720ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_ca8b7e8802271b52e3a7434b534f9861c1b15f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_3e2c2ed45cfb615440d199b26587836f5fbb7b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_f800bd5e6252dc174fb9303732f5d1883a37a6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_eac3dd1f6bd6c41b3f9ea876e603c8e2402b2d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_bd647cc911d379ff11181e0a35562375b1538479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.1.0_a9edf8fd6144fc0be809284ac4c7b24a15dafaac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_eb87d6e40e5507b23f7a4567fa9f751d500d0b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_5108db27f326a35528235e8ac9f176a4f9c4ce2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\dev\VisualNavigate\VisualVavigate\Application\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_f34b2509630fefccdc4b59f0144cb305d3b641d9.jar" />
+    </item>
+
+</items>

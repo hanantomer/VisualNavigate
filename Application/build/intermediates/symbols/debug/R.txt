@@ -1192,7 +1192,7 @@ int id android_pay 0x7f0f0085
 int id android_pay_dark 0x7f0f007c
 int id android_pay_light 0x7f0f007d
 int id android_pay_light_with_border 0x7f0f007e
-int id appbar 0x7f0f00b9
+int id appbar 0x7f0f00ba
 int id audio_empty_message 0x7f0f00de
 int id audio_list_view 0x7f0f00dc
 int id auto 0x7f0f0069
@@ -1213,7 +1213,7 @@ int id buyButton 0x7f0f0072
 int id buy_now 0x7f0f0076
 int id buy_with 0x7f0f0077
 int id buy_with_google 0x7f0f0078
-int id camera_container 0x7f0f00b7
+int id camera_container 0x7f0f00b8
 int id cancel_action 0x7f0f0105
 int id cast_button_type_closed_caption 0x7f0f0004
 int id cast_button_type_custom 0x7f0f0005
@@ -1310,8 +1310,8 @@ int id live_stream_indicator 0x7f0f00ca
 int id live_stream_seek_bar 0x7f0f00cc
 int id loading_indicator 0x7f0f00c5
 int id logo_only 0x7f0f007b
-int id main_content 0x7f0f00b8
-int id map 0x7f0f00bb
+int id main_content 0x7f0f00b9
+int id map 0x7f0f00b7
 int id match_global_nicknames 0x7f0f0063
 int id match_parent 0x7f0f0074
 int id media_actions 0x7f0f0107
@@ -1430,7 +1430,7 @@ int id time 0x7f0f010a
 int id title 0x7f0f008f
 int id title_template 0x7f0f0094
 int id title_view 0x7f0f00d7
-int id toolbar 0x7f0f00ba
+int id toolbar 0x7f0f00bb
 int id top 0x7f0f003a
 int id topPanel 0x7f0f0093
 int id touch_outside 0x7f0f00e0

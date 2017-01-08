@@ -3958,7 +3958,7 @@ containing a value of this type.
         public static final int android_pay_dark=0x7f0f007c;
         public static final int android_pay_light=0x7f0f007d;
         public static final int android_pay_light_with_border=0x7f0f007e;
-        public static final int appbar=0x7f0f00b9;
+        public static final int appbar=0x7f0f00ba;
         public static final int audio_empty_message=0x7f0f00de;
         public static final int audio_list_view=0x7f0f00dc;
         public static final int auto=0x7f0f0069;
@@ -3979,7 +3979,7 @@ containing a value of this type.
         public static final int buy_now=0x7f0f0076;
         public static final int buy_with=0x7f0f0077;
         public static final int buy_with_google=0x7f0f0078;
-        public static final int camera_container=0x7f0f00b7;
+        public static final int camera_container=0x7f0f00b8;
         public static final int cancel_action=0x7f0f0105;
         public static final int cast_button_type_closed_caption=0x7f0f0004;
         public static final int cast_button_type_custom=0x7f0f0005;
@@ -4076,8 +4076,8 @@ containing a value of this type.
         public static final int live_stream_seek_bar=0x7f0f00cc;
         public static final int loading_indicator=0x7f0f00c5;
         public static final int logo_only=0x7f0f007b;
-        public static final int main_content=0x7f0f00b8;
-        public static final int map=0x7f0f00bb;
+        public static final int main_content=0x7f0f00b9;
+        public static final int map=0x7f0f00b7;
         public static final int match_global_nicknames=0x7f0f0063;
         public static final int match_parent=0x7f0f0074;
         public static final int media_actions=0x7f0f0107;
@@ -4196,7 +4196,7 @@ containing a value of this type.
         public static final int title=0x7f0f008f;
         public static final int title_template=0x7f0f0094;
         public static final int title_view=0x7f0f00d7;
-        public static final int toolbar=0x7f0f00ba;
+        public static final int toolbar=0x7f0f00bb;
         public static final int top=0x7f0f003a;
         public static final int topPanel=0x7f0f0093;
         public static final int touch_outside=0x7f0f00e0;

@@ -1,4 +1,7 @@
-#Thu Jan 05 14:49:21 UTC 2017
-base.0=C\:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Jan 08 20:54:27 IST 2017
+base.0=F\:\\Dev\\VisualNavigate\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6fcbcc6be46a3424bd3122f76fff15f1da448447
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=F\:\\Dev\\VisualNavigate\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e64b1f266d2f68d081472fbd6315f08b8f94f2e1\\classes.dex
+base.1=F\:\\Dev\\VisualNavigate\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e64b1f266d2f68d081472fbd6315f08b8f94f2e1
+file.0=F\:\\Dev\\VisualNavigate\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6fcbcc6be46a3424bd3122f76fff15f1da448447\\classes.dex

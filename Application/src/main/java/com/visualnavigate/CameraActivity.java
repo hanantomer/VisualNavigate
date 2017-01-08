@@ -28,6 +28,9 @@ public class CameraActivity extends AppCompatActivity implements OnMapReadyCallb
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        Intent intent = new Intent(this, GetLocationService.class);
+        startService(intent);
+
         MapFragment mapFragment = (MapFragment) getFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
@@ -38,8 +41,7 @@ public class CameraActivity extends AppCompatActivity implements OnMapReadyCallb
                     .commit();
         }
 
-        Intent intent = new Intent(this, GetLocationService.class);
-        startService(intent);
+
     }
 
     @Override
@@ -89,5 +91,8 @@ public class CameraActivity extends AppCompatActivity implements OnMapReadyCallb
                 .title("Here"));
 
         googleMap.moveCamera(CameraUpdateFactory.newLatLng(current));
+
+        googleMap.setMaxZoomPreference(20);
+        googleMap.setMinZoomPreference(15);
     }
 }

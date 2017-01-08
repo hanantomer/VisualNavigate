@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "F:\\Dev\\VisualNavigate\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\dev\\VisualNavigate\\VisualVavigate\\Application\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "F:\\Dev\\VisualNavigate\\Application\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 928,
+                        "startOffset": 947,
                         "endColumn": 57,
-                        "endOffset": 981
+                        "endOffset": 1000
                     }
                 }
             }

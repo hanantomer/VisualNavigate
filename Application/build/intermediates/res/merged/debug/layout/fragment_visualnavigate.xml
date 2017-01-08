@@ -7,7 +7,7 @@
     <com.visualnavigate.AutoFitTextureView
         android:id="@+id/texture"
         android:layout_width="wrap_content"
-        android:layout_height="150dp"
+        android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true">
     </com.visualnavigate.AutoFitTextureView>
